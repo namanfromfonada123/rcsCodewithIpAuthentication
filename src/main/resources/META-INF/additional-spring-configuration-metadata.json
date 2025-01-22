@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "rcsMsgCredentials.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'rcsMsgCredentials.file.path'"
+  },
+  {
+    "name": "rcsMsgCredentials.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'rcsMsgCredentials.file.path'"
+  },
+  {
+    "name": "rcsMsgCredentials.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'rcsMsgCredentials.file.path'"
+  },
+  {
+    "name": "api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'api.key'"
+  },
+  {
+    "name": "approved.template.status.api",
+    "type": "java.lang.String",
+    "description": "A description for 'approved.template.status.api'"
+  }
+]}
